@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Dedicated Staff Technical Support engineer at VMware. Providing extended support for a very large global customer. Additionally I'm the developer of the Skyline CLI VMware Fling. 
+
+[Skyline CLI](https://flings.vmware.com/skyline-cli)
